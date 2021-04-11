@@ -1,0 +1,19 @@
+.hero2 {
+    height: 150%;
+    width: 100%;
+     /* The image used */
+     background-image: url("../../images//mabel.jpg");
+  
+     /* Full height */
+     height: 100%;
+   
+     /* Center and scale the image nicely */
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+     opacity: 0.8;
+  }
+
+  .second {
+      margin-top: 40px;
+  }

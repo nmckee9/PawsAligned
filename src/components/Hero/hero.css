@@ -1,0 +1,52 @@
+.hero {
+    padding: 0%;
+}
+
+.bg {
+    font-family: 'Archivo Narrow', sans-serif;
+    height: 150%;
+    width: 100%;
+     /* The image used */
+     background-image: url("../../images/mabel.jpg");
+  
+     /* Full height */
+     height: 100%;
+   
+     /* Center and scale the image nicely */
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+     opacity: 0.8;
+}
+.bg2 {
+    border: 1px #cea241;
+    border-style: solid;
+}
+
+.main {
+    padding-top: 20px;
+}
+
+.herotitletext {
+    color: white;
+    letter-spacing: .03em;
+    font-size: 45px;
+}
+
+.herosubtitletext {
+    color: white;
+    font-size: 30px;
+    font-weight: 200;
+}
+
+.img--fadein {
+    transition: opacity 0.3s ease;
+}
+
+#detailsbutton {
+    color: #cea241;
+}
+
+.button:hover {
+    transform: translateY(-10px);
+}

@@ -1,0 +1,21 @@
+.subtitletext {
+    font-family: 'Archivo Narrow', sans-serif;
+    color: white;
+}
+#announcement {
+ margin-top: 30px;
+}
+
+.hero-body {
+    padding-top: 0px;
+    padding-bottom: 30px;
+}
+
+.announcement {
+    background-color: #CA8D77;
+    color: beige;
+    letter-spacing: .03em;
+    font-size: 18px;
+    font-weight: 10;
+}
+
